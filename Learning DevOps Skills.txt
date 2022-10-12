@@ -1,0 +1,4 @@
+Learn Linux, Python
+Learn Git Hub commands
+Learn AWS
+Practice all commands thouroughly 
